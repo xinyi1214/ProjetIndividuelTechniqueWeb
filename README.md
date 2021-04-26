@@ -8,7 +8,7 @@ Pour lancer le projet:
     
     . venu/bin/activate
     
-2. Lancer l'application
+2. Lancement de l'application
 
     pip3 install -r requirements.txt
     
